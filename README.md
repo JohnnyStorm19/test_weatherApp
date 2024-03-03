@@ -9,5 +9,7 @@
 - **куб** был сгенерирован с помощью библиотеки [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
 - **Html**-разметка на каждой из граней реализована с помощью хелпера [drei](https://github.com/pmndrs/drei) для React Three Fiber
 - для стилизации был использован обычный CSS
+- актуальный прогноз только на одной стороне (где написано **сегодня**)
+- на остальных гранях убран текст *ощущается как*, прогноз: *всегда ожидается дождь* (мы же в Петербурге), а градусы по текущему индексу 
 
 [![test_weatherApp](https://github.com/JohnnyStorm19/test_weatherApp/actions/workflows/web.yml/badge.svg)](https://github.com/JohnnyStorm19/test_weatherApp/actions/workflows/web.yml)
