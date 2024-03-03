@@ -12,7 +12,7 @@ function App() {
       <Suspense fallback={null}>
         <Coube />
       </Suspense>
-      <OrbitControls minPolarAngle={0} maxPolarAngle={Math.PI / 2.1} />
+      <OrbitControls />
     </Canvas>
   );
 }
